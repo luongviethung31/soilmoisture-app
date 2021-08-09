@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101735187079",
+    "project_id": "soil-moisture-app",
+    "storage_bucket": "soil-moisture-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101735187079:android:171415f9e95c1d4e92ee22",
+        "android_client_info": {
+          "package_name": "com.example.soilmoistureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101735187079-4a4o3evk5pdi2b1s8tqgjp516qsucg6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuH-04BlLZVHNpBdekGlnyl0sS07RcxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101735187079-4a4o3evk5pdi2b1s8tqgjp516qsucg6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
